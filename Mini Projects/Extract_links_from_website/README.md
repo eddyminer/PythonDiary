@@ -6,5 +6,5 @@ This script uses two libraries:
 - requests
 - bs4
 
-requests is used to obtain HTML code from a website while bs4 is used to parse the HTML code.
+requests is used to obtain HTML code from a website while bs4 is used to parse the HTML code. <br />
 After that, URLs are filtered out of the HTML code and printed out.
