@@ -1,7 +1,8 @@
 import requests as rq
 from bs4 import BeautifulSoup
 
-url = input("Enter Link: ")
+#www.youtube.com is used as unit testing
+url = "www.youtube.com"
 #the url must contain 'https' or 'http' for rq to function
 if ("https" or "http") in url:
     data = rq.get(url)
