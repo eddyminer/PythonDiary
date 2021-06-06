@@ -1,6 +1,7 @@
 # Extract Links from Website
 This script scraps all links available in a website. <br />
-Credit: PYTHON WORLD
+Credit: PYTHON WORLD <br />
+Checkout their original project here: [Link](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage)
 
 This script uses two libraries:
 - requests
